@@ -9,7 +9,7 @@ El programa contiene las siguiente opciones:
   2. Eliminar nodo.
   3. Agregar adjacencia.
   4. Eliminar adjacencia.
-  5. Camino entre dos nodos.
+  5. Identificar camino más corto entre dos nodos.
   6. Sugerencias de relaciones.
   7. Comprobar existencia de un nodo.
   8. Comprobar existencia de una adjacencia.
