@@ -1,4 +1,4 @@
-# NetworkGraph
+# Network Graph
 Representación de una red mediante un Grafo, el cual es una estructura de dato conformado por nodo y adjacencias. Dicha estructura de datos es usada en protocolos de enrutamiento dinámico como OSPF y para protocolos de capa 2 (Spanning Tree Protocol).
 
 Este repositorio contiene una archivo llamada "graph" que contiene la estructura de dato del Grafo. De igual forma, tenemos un archivo llamada "deserealize" que contiene el código utilizado para deserealizar archivo en el formato JSON e introducir estos datos en el Grafo. Por último, está el archivo "graphicRepresentation" con el código utilizado para grafica el Grafo, realizado con la librería Dash para Python.
